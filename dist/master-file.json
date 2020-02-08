@@ -55,6 +55,13 @@
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x4e84e9e5fb0a972628cf4568c403167ef1d40431.json",
     "website": "https://fluzcoin.io/"
   },
+    {
+    "network": "eth",
+    "contract_address": "0xfb19c03a02a519a44542343803f3d42578cbc243",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CRC-0xfb19c03a02a519a44542343803f3d42578cbc243.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xfb19c03a02a519a44542343803f3d42578cbc243.json",
+    "website": "https://crcoinico.com"
+  },
   {
     "network": "eth",
     "contract_address": "0xa024e8057eec474a9b2356833707dd0579e26ef3",
