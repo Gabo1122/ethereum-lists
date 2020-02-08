@@ -1,0 +1,31 @@
+{
+  "symbol": "CRC",
+  "name": "CR Coin",
+  "type": "ERC20",
+  "address": "0xfb19c03a02a519a44542343803f3d42578cbc243",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://www.crcoinico.com",
+  "logo": {
+    "src": "https://crcoinico.com/ico/public/images/welcome.png",
+    "width": "100px",
+    "height": "100px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@crcoinico.com", "url": "" },
+  "social": {
+    "blog": "https://crcoinico.com/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/BlockchainCRC/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://instagram.com/blockchaincostarica",
+    "linkedin": "https://www.linkedin.com/company/blockchaincostarica",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
